@@ -1,5 +1,5 @@
-# OIBGRIP
-OASIS INFOBYTE INTERNSHIP
+# OASIS INFOBYTE INTERNSHIP
+
 
 This internship was all about data science and analytics. I applied for this internship from the website of Oasis Infobyte. 
 I completed all the given tasks by them. They have given 5 tasks.
